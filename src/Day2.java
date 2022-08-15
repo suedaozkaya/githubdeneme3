@@ -15,5 +15,6 @@ public class Day2 {
     ikinci commit'lerim icin sadece git push kullaniriz.
     NOT: git log --oneline --> Commitlerimdeki yani versiyonlarimdaki durumu gosterir
     NOT: github ogrendim
+    NOT: github cok eglenceli
      */
 }
